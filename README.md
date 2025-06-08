@@ -1,7 +1,7 @@
 # 🤖 Aula Teste – Chatbot com Python, Wikipédia e PLN
 
 **Professor:** Diego Vergaças  
-**Formato:** Aula teste para vaga docente – Inteligência Artificial
+**Formato:** Aula teste para vaga docente – Inteligência Artificial  
 **Ferramentas:** Lousa digital + Terminal Python + Biblioteca Transformers + Wikipedia API
 
 ---
